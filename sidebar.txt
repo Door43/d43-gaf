@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gaf:home|Door43 (gaf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gaf|d43-gaf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gaf/archive/master.zip|d43-gaf.zip]]
+
+**Recent Changes**
+{{changes>ns = gaf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gaf|Ethnologue data]]
+
